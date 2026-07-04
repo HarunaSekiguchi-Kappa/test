@@ -1,24 +1,24 @@
 # paper_slide_project
 
-This repository contains a small workflow for converting paper metadata into slide-ready content.
+このリポジトリでは、論文のメタデータをもとに、スライド作成用の内容を生成するための簡単なワークフローを管理しています。
 
-## What is included
+## 含まれている内容
 
-- Scripts to process paper input data and author/affiliation information
-- A script to generate presentation slides
-- Sample input and output files
+- 論文の入力データや著者・所属情報を処理するためのスクリプト
+- スライドを生成するためのスクリプト
+- サンプルとなる入力ファイルや出力ファイル
 
-## Files
+## 主なファイル
 
-- `make_paper_slides.py` — generates slides from the input paper data
-- `make_paper_slides_powerpoint.py` — generates PowerPoint output
-- `pmid_pmcid_to_authors_affiliations.py` — maps PMID/PMCID data to authors and affiliations
-- `raw_to_input_papers_csv.py` — converts raw input into CSV format
+- `make_paper_slides.py` — 入力データからスライド内容を生成します
+- `make_paper_slides_powerpoint.py` — PowerPoint 形式の出力を生成します
+- `pmid_pmcid_to_authors_affiliations.py` — PMID/PMCID データを著者や所属情報に対応付けます
+- `raw_to_input_papers_csv.py` — 生の入力データを CSV 形式に変換します
 
-## Usage
+## 使い方
 
-1. Prepare the input data files.
-2. Run the Python scripts to generate the slide content.
-3. Review the generated output files.
+1. 入力データファイルを用意します
+2. Python スクリプトを実行して、スライド作成用の内容を生成します
+3. 生成された出力ファイルを確認します
 
-This project is intended for personal use and experimentation.
+このプロジェクトは、個人利用および実験用としての利用を想定しています。
