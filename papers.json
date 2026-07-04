@@ -1,0 +1,122 @@
+[
+{
+"jp_title": "患者レベルの社会的決定要因データの相互運用性向上によるCOVID-19研究支援",
+"authors": "Jimmy Phuong ¹², Stephanie Hong ³, Matvey B Palchuk ⁴, Juan Espinoza ⁵, Daniella Meeker ⁶, David A Dorr ⁷, Galina Lozinski ⁸, Charisse Madlock-Brown ⁹, William G Adams ⁸",
+"affiliations": "¹Division of Biomedical and Health Informatics, UW Medicine, Seattle, Washington.\n²University of Washington Medicine Research IT, Seattle, Washington.\n³Section of Biomedical Informatics and Data Science, Johns Hopkins University School of Medicine, Baltimore, Maryland.\n⁴TriNetX, LLC, Cambridge, MA.\n⁵Department of Pediatrics, Children's Hospital Los Angeles, Los Angeles, CA.\n⁶Department of Preventive Medicine, University of Southern California, Los Angeles, California.\n⁷Department of Medical Informatics & Clinical Epidemiology, Oregon Health & Science University, Portland, OR.\n⁸Department of Pediatrics, Boston Medical Center/Boston University School of Medicine.\n⁹Tennessee Clinical and Translational Science Institute, University of Tennessee Health Science Center, Memphis, Tennessee.",
+"journal_doi": "AMIA Jt Summits Transl Sci Proc. 2022;2022:396–405.",
+"en_title": "Advancing Interoperability of Patient-level Social Determinants of Health Data to Support COVID-19 Research",
+"pubmed_info": "PubMed PMID: 35854720; PubMed Central PMCID: PMC9285174.",
+"background": "社会的決定要因（SDoH）データは、医療格差の要因を理解し、COVID-19を含む健康アウトカム研究を行ううえで重要である。一方で、SDoHデータはEHR内で非標準的なコードとして保存されることが多く、施設間での共有や二次利用には課題がある。",
+"methods": "大規模セーフティネット病院で収集されたSDoHスクリーニングツール回答を、National COVID Cohort Collaborative（N3C）のOMOPデータセットへ送信するための実践的な設計とデータマッピング手順を記述した。\n臨床現場で収集されたスクリーニング情報を、i2b2、TriNetX、OMOPへ変換する際の上流マッピングおよび中間段階のデータ調和を検討した。\nスクリーニング質問・回答を反映する概念セットを作成し、データ件数の確認を通じてデータフローの妥当性を確認した。",
+"results": "患者レベルのSDoHデータについて、臨床現場からN3C OMOPデータセットへ至るデータマッピングと取り込みの段階的手順が整理された。\n非標準的かつEHRベンダー固有の形式で保存されているSDoHデータであっても、適切な設計により共有可能であることが示された。\nスクリーニングツールの質問と回答関係を保持すること、CDM間変換で情報損失を最小化することが重要であると示された。",
+"conclusion": "本研究は、患者レベルのSDoHデータをCOVID-19研究用データ基盤へ統合する実践的な方法を示した。SDoHスクリーニングの利用が広がる中で、本アプローチは他のスクリーニングツールにも応用でき、重要な社会的データの相互運用性向上に寄与する。"
+},
+{
+"jp_title": "HIV陽性者におけるCOVID-19パンデミックのメンタルヘルスケア利用への影響：リアルワールドデータ研究",
+"authors": "Atana Pasha ¹², Shan Qiao ¹², Jiajia Zhang ²³, Ruilie Cai ², Buwei He ², Xueying Yang ¹², Chen Liang ²⁴, Sharon Weissman ²⁵, Xiaoming Li ¹²",
+"affiliations": "¹Department of Health Promotion, Education and Behavior, Arnold School of Public Health, University of South Carolina, Columbia, SC, USA.\n²South Carolina SmartState Center for Healthcare Quality, Arnold School of Public Health, University of South Carolina, Columbia, SC, USA.\n³Department of Epidemiology and Biostatistics, Arnold School of Public Health, University of South Carolina, Columbia, SC, USA.\n⁴Department of Health Services Policy and Management, Arnold School of Public Health, University of South Carolina, Columbia, SC, USA.\n⁵Department of Internal Medicine, School of Medicine, University of South Carolina, Columbia, SC, USA.",
+"journal_doi": "medRxiv. 2024 Sep 26. doi:10.1101/2024.09.26.24314443",
+"en_title": "The impact of the COVID-19 pandemic on mental health care utilization among people living with HIV: A real-world data study",
+"pubmed_info": "PubMed PMID: 39398989; PubMed Central PMCID: PMC11469454.",
+"background": "COVID-19パンデミックは世界的にメンタルヘルスへ大きな影響を与え、HIV陽性者（PLWH）は特に脆弱な集団とされる。PLWHにおけるメンタルヘルスケア利用の変化と関連要因について、大規模リアルワールドデータに基づく検討は限られている。",
+"methods": "NIH All of UsプログラムのEHRデータおよびBasics Surveyデータを用いた後ろ向きコホート研究である。\n2018年3月から2022年3月までのデータを用い、OMOP CDM概念セットに基づく計算表現型によりPLWH 4,575例を同定した。\nメンタルヘルスケア利用は年間のメンタルヘルス関連受診回数として測定し、パンデミック前（2018–2020年）とパンデミック中（2020–2022年）で比較した。\nPoisson一般化線形混合モデルにより、COVID-19感染歴、人口統計学的要因、併存疾患、社会経済状況との関連を評価した。",
+"results": "PLWHにおける年間メンタルヘルスケア受診回数は、パンデミック前と比較してパンデミック中に有意に減少した（IRR=0.89, p<0.001）。\nCOVID-19感染歴は受診回数の増加と関連した（IRR=1.35, p<0.001）。\n併存疾患は受診回数の大幅な増加と関連し、1つの併存疾患でIRR=5.49、2つ以上でIRR=10.4であった（p<0.001）。\nMedicaid加入は受診増加と関連した一方（IRR=1.29, p=0.007）、黒人またはアフリカ系米国人参加者（IRR=0.71, p=0.002）および雇用主・組合提供保険加入者（IRR=0.54, p<0.001）では受診回数が少なかった。",
+"conclusion": "COVID-19パンデミック中、PLWHにおけるメンタルヘルスケア利用は有意に減少し、利用状況には社会的・人口統計学的な差がみられた。公衆衛生危機において、PLWHのメンタルヘルスケアへのアクセス格差を考慮した標的型支援が必要である。"
+},
+{
+"jp_title": "臨床研究の適格性スクリーニングにおけるEHRデータギャップ",
+"authors": "Alex Butler ¹, Wei Wei ¹, Chi Yuan ¹, Tian Kang ¹, Yuqi Si ², Chunhua Weng ¹",
+"affiliations": "¹Department of Biomedical Informatics, Columbia University, New York City, New York.\n²The University of Texas Health Science Center at Houston, Houston, Texas.",
+"journal_doi": "AMIA Jt Summits Transl Sci Proc. 2018;2017:320–329.",
+"en_title": "The Data Gap in the EHR for Clinical Research Eligibility Screening",
+"pubmed_info": "PubMed PMID: 29888090; PubMed Central PMCID: PMC5961795.",
+"background": "EHRデータを用いた臨床試験候補者の同定には多くの研究が行われているが、EHRは臨床診療を目的として設計されており、研究適格性スクリーニングに必要なすべてのデータ要素を含むとは限らない。",
+"methods": "アルツハイマー病領域を例に、ClinicalTrials.govに登録された1,587件の臨床試験の適格基準テキストを対象としてテキストマイニングを実施した。\n適格基準から頻出する概念を抽出し、OMOP CDMを用いて表現を標準化した。\nSynPUF 1%データセット内のアルツハイマー病患者19,570例のEHRデータ要素と比較し、臨床試験適格基準で頻用される概念がEHRデータ内に存在するかを評価した。",
+"results": "アルツハイマー病臨床試験で頻用されるSNOMED CT概念が同定された。\n頻出する適格基準概念の約40%は、アルツハイマー病患者コホートのEHRデータセット内の概念空間に定義されていなかった。\nこの結果は、EHRベースの適格性スクリーニングにおいて、研究で必要とされるデータ要素とEHRで利用可能なデータ要素との間に大きなギャップが存在することを示している。",
+"conclusion": "EHRを用いた臨床研究の適格性スクリーニングでは、重要な適格基準データが欠落している可能性がある。本研究結果は、研究向けEHR設計やターゲットを絞ったデータ収集フォームの設計に有用である。"
+},
+{
+"jp_title": "OHDSI ATLASソフトウェアにおける臨床研究の選択・除外基準の実装",
+"authors": "Romina Blasini ¹, Kornelia Marta Buchowicz ²³, Henning Schneider ²³, Birgit Samans ³, Keywan Sohrabi ²³",
+"affiliations": "¹Institute of Medical Informatics, Justus Liebig University, Giessen, Germany. [romina.blasini@informatik.med.uni-giessen.de](mailto:romina.blasini@informatik.med.uni-giessen.de).\n²Institute of Medical Informatics, Justus Liebig University, Giessen, Germany.\n³Faculty of Health Sciences, University of Applied Sciences, Giessen, Germany.",
+"journal_doi": "Sci Rep. 2023 Dec;13(1):22457. doi:10.1038/s41598-023-49560-w",
+"en_title": "Implementation of inclusion and exclusion criteria in clinical studies in OHDSI ATLAS software",
+"pubmed_info": "PubMed PMID: 38105303; PubMed Central PMCID: PMC10725886.",
+"background": "臨床試験のリクルート支援システムは、適格な参加者を見つけることで参加者登録を改善できる可能性がある。OHDSI ATLASは、条件を満たす患者コホートを構築できるが、臨床試験の選択・除外基準をどこまで表現できるかは検証が必要である。",
+"methods": "過去10年間に実施された30件の臨床試験から、223件の客観的な適格基準を抽出して解析した。\n各基準について、ICD、OPS、LOINC、ATCなどの適切なコードを選択し、ATLAS上で実装可能かを評価した。\n基準および研究単位で、完全実装可能、一部実装可能、実装困難などに分類し、用語体系やソフトウェア上の制約も検討した。",
+"results": "解析した選択基準の51%はATLASで完全に実装可能であった。\n対象30研究のうち、10%はすべての基準を完全に表現可能であり、73%は少なくとも一部を表現可能であった。\n16.67%の研究では初期イベントを完全には実装できず、部分的に表現可能な分類となった。\n実装困難な基準は、用語体系の制約やATLAS上で表現しにくい条件に関連していた。",
+"conclusion": "ATLASは臨床試験適格基準の一部をコホート定義として表現するうえで有用であるが、すべての基準を完全に実装できるわけではない。臨床試験リクルート支援に活用するには、用語体系とソフトウェア制約を踏まえた設計が必要である。"
+},
+{
+"jp_title": "ベンチからバイトへ：データ駆動型がん研究に関する英国の視点",
+"authors": "Sarah K Wooller ¹, Andrew Blake ², Martin McCabe ³, Colin McLean ⁴, Gareth Price ⁵, Harriet Unsworth ⁶, Mieke Van Hemelrijck ⁷, Frances M G Pearl ⁸",
+"affiliations": "¹Bioinformatics Lab, School of Life Sciences, Faculty of Science, Engineering and Medicine, University of Sussex, Brighton, Falmer BN1 9QG, United Kingdom.\n²Department of Oncology, University of Oxford, Old Road Campus Research Building, Roosevelt Drive, Oxford OX3 7DQ, United Kingdom.\n³The Christie NHS Foundation Trust, Wilmslow Road, Withington, Manchester M20 4BX, United Kingdom.\n⁴The Cancer Centre, School of Genetics and Cancer, The University of Edinburgh, Crewe Road South, Edinburgh EH4 2XU, United Kingdom.\n⁵The Christie NHS Foundation Trust, Wilmslow Road, Withington, Manchester M20 4BX, United Kingdom; Division of Cancer Sciences, University of Manchester, Manchester, United Kingdom.\n⁶Digital Cancer Research Team, CRUK National Biomarker Centre, The Paterson Building, The University of Manchester, Wilmslow Road, Manchester M20 4BX, United Kingdom. Electronic address: [harriet.unsworth@cruk.manchester.ac.uk](mailto:harriet.unsworth@cruk.manchester.ac.uk).\n⁷Comprehensive Cancer Centre, Guy's Hospital, 3rd Floor Bermondsey Wing, London SE1 9RT, United Kingdom. Electronic address: [mieke.vanhemelrijck@kcl.ac.uk](mailto:mieke.vanhemelrijck@kcl.ac.uk).\n⁸Bioinformatics Lab, School of Life Sciences, Faculty of Science, Engineering and Medicine, University of Sussex, Brighton, Falmer BN1 9QG, United Kingdom. Electronic address: [f.pearl@sussex.ac.uk](mailto:f.pearl@sussex.ac.uk).",
+"journal_doi": "Eur J Cancer. 2026 Jun;240:116751. doi:10.1016/j.ejca.2026.116751",
+"en_title": "From bench to byte: A UK perspective on data-driven cancer research",
+"pubmed_info": "PubMed PMID: 42034002.",
+"background": "がん研究は、臨床データ、ゲノムデータ、画像データ、リアルワールドデータの急速な拡大により大きく変化している。一方で、技術的能力だけでは持続的な成果につながらず、信頼、インフラ、人材、文化の整備が必要である。",
+"methods": "本論文は英国におけるデータ駆動型がん研究の展望を整理した視点論文である。\nCancer Research UKのデータ戦略、CRUK Data Science CommunityおよびData Interest Groupsの活動を踏まえ、医療システムデータ、データ再利用、市民参加、インフラ、教育・トレーニングに関する課題を整理した。\n統合データセット、AI解析、国際共同研究、フェデレーテッドアプローチに関する事例を提示した。",
+"results": "データ駆動型がん研究では、統合データ、AI解析、国際連携、フェデレーテッド解析が研究および臨床実装を変えつつあることが示された。\n一方で、データアクセスの信頼性、FAIR原則に基づくデータ再利用、持続可能なインフラ、人材育成、患者・市民参加が共通課題として挙げられた。\n英国では、研究者コミュニティ主導で共通課題を特定し、実用的な解決策を共同設計する取り組みが進められている。",
+"conclusion": "英国は、信頼性が高く持続可能でFAIRなデータアクセスをコミュニティ主導で推進することにより、データ駆動型がん研究の潜在力を引き出せる可能性がある。これにより、がん患者にとって意味のある研究成果と臨床的利益が期待される。"
+},
+{
+"jp_title": "臨床研究のためのEHRデータのセマンティック処理",
+"authors": "Hong Sun ¹, Kristof Depraetere ², Jos De Roo ², Giovanni Mels ², Boris De Vloed ², Marc Twagirumukiza ², Dirk Colaert ²",
+"affiliations": "¹Advanced Clinical Applications Research Group, Agfa HealthCare, Moutstraat 100, 9000 Gent, Belgium. Electronic address: [hong.sun@agfa.com](mailto:hong.sun@agfa.com).\n²Advanced Clinical Applications Research Group, Agfa HealthCare, Moutstraat 100, 9000 Gent, Belgium.",
+"journal_doi": "J Biomed Inform. 2015 Dec;58:247–259. doi:10.1016/j.jbi.2015.10.009",
+"en_title": "Semantic processing of EHR data for clinical research",
+"pubmed_info": "PubMed PMID: 26515501.",
+"background": "臨床研究では、異なる情報源に由来するEHRデータを意味的に統合し、研究目的に応じた形式で利用する必要が高まっている。従来型のデータ変換では、複数表現への事前複製や同期が必要となり、運用負荷が大きい。",
+"methods": "本研究では、異種EHRデータソースの上にセマンティックデータ仮想化レイヤーを構築し、必要な意味体系や形式に応じてオンデマンドにデータを生成する方法を提案した。\nEHRデータをまずソース意味論に基づくRDFデータへマッピングし、次にドメインオントロジーや用語体系を用いて調和されたドメイン意味論へ変換した。\nさらに、i2b2やOMOPなどの臨床研究データベースに対応するアプリケーション意味論へ変換可能とした。\nセマンティック変換はN3ルールとして明示的に記述し、EYE N3 Reasonerにより実行した。",
+"results": "提案手法により、異なるEHRシステム由来のデータを複数の研究用途に合わせて意味的に統合・変換できることが示された。\nデータをあらかじめ複数形式に複製・同期する必要を避けつつ、ドメイン意味論およびアプリケーション意味論への変換を実行できた。\n変換プロセスはルールとして明示され、推論器により変換証跡も生成可能であった。\n本手法は、大規模EHRデータを処理する実世界アプリケーションに適用された。",
+"conclusion": "セマンティックデータ仮想化とルールベース変換を組み合わせることで、EHRデータの再利用性と相互運用性を高められる。本アプローチは、i2b2やOMOPなど異なる臨床研究基盤へのデータ利用を支援する。"
+},
+{
+"jp_title": "医薬品安全性研究における統合データサイエンス：経験、課題、展望",
+"authors": "Ferran Sanz ¹²",
+"affiliations": "¹Department of Medicine and Life Sciences (MELIS), Universitat Pompeu Fabra, Barcelona, Spain; email: [ferran.sanz@upf.edu](mailto:ferran.sanz@upf.edu).\n²Research Program on Biomedical Informatics (GRIB), Hospital del Mar Research Institute (IMIM), Barcelona, Spain.",
+"journal_doi": "Annu Rev Biomed Data Sci. 2025 Aug;8(1):275–285. doi:10.1146/annurev-biodatasci-103123-095506",
+"en_title": "Integrative Data Science in Drug Safety Research: Experiences, Challenges, and Perspectives",
+"pubmed_info": "PubMed PMID: 40169005.",
+"background": "医薬品研究開発は、利用可能なデータの量と質に大きく依存している。既存データの二次利用と統合的な解析は、医薬品安全性研究において有望な成果を生みつつある。",
+"methods": "本レビューでは、医薬品安全性研究におけるデータ共有と統合データサイエンスの経験を整理した。\n臨床領域ではOMOP CDM、EHDEN、DARWIN EUなどのデータ共有・フェデレーテッド解析基盤を取り上げた。\n非臨床毒性研究ではeTOX、eTRANSAFE、VICT3Rなどの国際プロジェクトを例示し、仮想対照群や薬剤関連知識ベースの活用を検討した。",
+"results": "OMOP CDMを基盤としたEHDENやDARWIN EUは、標準化された医療データの共有と解析を可能にする成功例として位置づけられる。\n非臨床領域では、eTOXやeTRANSAFEが企業由来のレガシーデータ共有と安全性予測を推進し、VICT3Rでは非臨床毒性評価に仮想対照群を利用する取り組みが進められている。\n一方で、相互運用性、知的財産保護、個人データ保護、標準化の受容が主要な課題として挙げられた。",
+"conclusion": "統合データサイエンスは、臨床・非臨床の医薬品安全性研究を進展させる重要な手段である。今後は、データ標準、フェデレーテッド解析、知識ベース、プライバシー保護を組み合わせた持続可能なデータ共有体制が重要となる。"
+},
+{
+"jp_title": "CHARYBDISを用いた450万例のCOVID-19症例の大規模特徴づけ",
+"authors": "Daniel Prieto-Alhambra ¹, Kristin Kostka ², Talita Duarte-Salles ³, Albert Prats-Uribe ⁴, Anthony Sena ⁵, Andrea Pistillo ³, Sara Khalid ⁶, Lana Lai ⁷, Asieh Golozar ⁸, Thamir M Alshammari ⁹, Dalia Dawoud ¹⁰, Fredrik Nyberg ¹¹, Adam Wilcox ¹², Alan Andryc ¹³, Andrew Williams ¹⁴, Anna Ostropolets ¹⁵, Carlos Areia ¹⁶, Chi Young Jung ¹⁷, Christopher Harle ¹⁸, Christian Reich ², Clair Blacketer ⁵, Daniel Morales ¹⁹, David A Dorr ²⁰, Edward Burn ³, Elena Roel, Eng Hooi Tan ⁶, Evan Minty ²¹, Frank DeFalco ¹³, Gabriel de Maeztu ²², Gigi Lipori ²³, Heba Alghoul ²⁴, Hong Zhu ²⁵, Jason Thomas ²⁶, Jiang Bian ²⁷, Jimyung Park ²⁸, Jordi Martínez Roldán ²⁹, Jose Posada ³⁰, Juan M Banda ³¹, Juan P Horcajada ³², Julianna Kohler ³³, Karishma Shah ³⁴, Karthik Natarajan ³⁵, Kristine Lynch ³⁶, Li Liu ³⁷, Lisa Schilling ³⁸, Martina Recalde ³, Matthew Spotnitz ¹⁵, Mengchun Gong ³⁹, Michael Matheny ⁴⁰, Neus Valveny ⁴¹, Nicole Weiskopf ²⁰, Nigam Shah ⁴², Osaid Alser ⁴³, Paula Casajust ⁴⁴, Rae Woong Park ²⁸, Robert Schuff ⁴⁵, Sarah Seager ², Scott DuVall ⁴⁶, Seng Chan You ⁴⁷, Seokyoung Song ⁴⁸, Sergio Fernández-Bertolín ³, Stephen Fortin ⁴⁹, Tanja Magoc ²³, Thomas Falconer ¹⁵, Vignesh Subbian ⁵⁰, Vojtech Huser ⁵¹, Waheed-Ul-Rahman Ahmed ⁵², William Carter ⁵³, Yin Guan ³⁹, Yankuic Galvan ²³, Xing He ²³, Peter Rijnbeek ⁵⁴, George Hripcsak ³⁵, Patrick Ryan ⁵⁵, Marc Suchard ⁵⁶",
+"affiliations": "¹Centre for Statistics in Medicine (CSM), Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences (NDROMS), University of Oxford, UK.\n²Real World Solutions, IQVIA, Cambridge, MA, USA.\n³Fundació Institut Universitari per a la recerca a l'Atenció Primària de Salut Jordi Gol i Gurina (IDIAPJGol), Barcelona, Spain.\n⁴Centre for Statistics in Medicine, University of Oxford.\n⁵Janssen R&D, Titusville NJ, USA, 2) Department of Medical Informatics, Erasmus University Medical Center, Rotterdam, The Netherlands.\n⁶Centre for Statistics in Medicine, NDORMS, University of Oxford, UK.\n⁷Division of Cancer Sciences, School of Medical Sciences, University of Manchester, UK.\n⁸Regeneron Pharmaceuticals, NY USA, Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, MD USA.\n⁹Medication Safety Research Chair, King Saud University, Riyadh, Saudi Arabia.\n¹⁰National Institute for Health and Care Excellence, London, UK.\n¹¹School of Public Health and Community Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.\n¹²Department of Biomedical Informatics and Medical Education, University of Washington, Seattle, WA, USA, 2) UW Medicine, Seattle, WA, USA.\n¹³Janssen R&D, Titusville NJ, USA.\n¹⁴Tufts Institute for Clinical Research and Health Policy Studies, US.\n¹⁵Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA.\n¹⁶Nuffield Department of Clinical Neurosciences, University of Oxford, UK.\n¹⁷Division of Respiratory and Critical Care Medicine, Department of Internal Medicine, Daegu Catholic University Medical Center, Daegu, Korea.\n¹⁸University of Florida Health, Gainesville, FL, USA.\n¹⁹Division of Population Health and Genomics, University of Dundee, UK.\n²⁰Department of Medical Informatics & Clinical Epidemiology, Oregon Health & Science University, Portland, OR, USA.\n²¹O'Brien Institute for Public Health, Faculty of Medicine, University of Calgary, Canada.\n²²IOMED, Barcelona, Spain.\n²³University of Florida Health.\n²⁴Faculty of Medicine, Islamic University of Gaza, Palestine.\n²⁵Nanfang Hospital, Southern Medical University, Guangzhou, China.\n²⁶Department of Biomedical Informatics and Medical Education, University of Washington, Seattle, WA, USA.\n²⁷University of Florida.\n²⁸Department of Biomedical Sciences, Ajou University Graduate School of Medicine, Suwon, Korea.\n²⁹Director of Innovation and Digital Transformation, Hospital del Mar, Barcelona, Spain.\n³⁰Stanford University School of Medicine, Stanford, California, USA.\n³¹Georgia State University, Department of Computer Science, Atlanta, GA, USA.\n³²Department of Infectious Diseases, Hospital del Mar, Institut Hospital del Mar d'Investigació Mèdica (IMIM), Universitat Autònoma de Barcelona. Universitat Pompeu Fabra, Barcelo.\n³³United States Agency for International Development, Washington, DC, USA.\n³⁴Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK.\n³⁵Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA, 2) New York-Presbyterian Hospital, 622 W 168 St, PH20 New York, NY 10032 USA.\n³⁶VINCI, VA Salt Lake City Health Care System, Salt Lake City, VA, & Division of Epidemiology, University of Utah, Salt Lake City, UT.\n³⁷Biomedical Big Data Center, Nanfang Hospital, Southern Medical University, Guangzhou, China.\n³⁸Data Science to Patient Value Program, University of Colorado Anschutz Medical Campus.\n³⁹DHC Technologies Co. Ltd, Beijing, China.\n⁴⁰VINCI, Tennessee Valley Healthcare System VA, Nashville, TN & Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN.\n⁴¹Real-World Evidence, TFS, Barcelona, Spain.\n⁴²Stanford University.\n⁴³Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.\n⁴⁴Trial Form Support.\n⁴⁵Knight Cancer Institute, Oregon Health & Science University.\n⁴⁶VA Informatics and Computing Infrastructure, VA Salt Lake City Health Care System, Salt Lake City, UT, USA.\n⁴⁷Department of Biomedical Informatics, Ajou University School of Medicine, Suwon, South Korea.\n⁴⁸Department of Anesthesiology and Pain Medicine, Catholic University of Daegu, School of Medicine, Daegu, Korea.\n⁴⁹Observational Health Data Analytics, Janssen Research and Development, Raritan, NJ, USA.\n⁵⁰College of Engineering, The University of Arizona, Tucson, Arizona, USA.\n⁵¹National Library of Medicine, National Institutes of Health, Bethesda, MD, USA.\n⁵²Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK, 2) College of Medicine and Health, University of Exeter, St Luke's Campus, E.\n⁵³Data Science to Patient Value Program, School of Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO, USA.\n⁵⁴Department of Medical Informatics, Erasmus University Medical Center, Rotterdam, The Netherlands.\n⁵⁵Janssen R&D.\n⁵⁶Department of Biostatistics, UCLA Fielding School of Public Health, University of California, Los Angeles.",
+"journal_doi": "Res Sq. 2021. doi:10.21203/rs.3.rs-279400/v1",
+"en_title": "Unraveling COVID-19: a large-scale characterization of 4.5 million COVID-19 cases using CHARYBDIS",
+"pubmed_info": "PubMed PMID: 33688639; PubMed Central PMCID: PMC7941629.",
+"background": "COVID-19の臨床像、併存疾患、治療、転帰を国際的に比較可能な形で把握するには、標準化されたリアルワールドデータ解析基盤が必要である。OHDSIネットワークでは、COVID-19症例の大規模な特徴づけを目的としてCHARYBDISフレームワークが構築された。",
+"methods": "OHDSIのCHARYBDIS（Characterizing Health Associated Risks and Your Baseline Disease In SARS-COV-2）フレームワークを用いて、COVID-19症例の標準化された大規模特徴づけを行った。\n複数国・複数施設のOMOP CDM等に基づくリアルワールドデータを用い、COVID-19診断例および入院例の人口統計、併存疾患、症状、薬剤、転帰を集計した。\n解析結果はコホート別に集約され、オンラインで利用可能な形で提示された。",
+"results": "約450万例のCOVID-19症例について、22,000を超える特徴量が集計された。\n主要な併存疾患として2型糖尿病、高血圧、慢性腎臓病、心疾患が多く認められた。\nよくみられた症状は呼吸困難、咳嗽、発熱であり、症状データは診断コホートよりも入院コホートで利用可能な割合が高かった。\n本研究により、COVID-19の進行、管理、時間的変化に関する国際的かつ多施設の概観が構築された。",
+"conclusion": "CHARYBDISは、標準化されたリアルワールドデータを用いてCOVID-19症例を大規模かつ国際的に特徴づける枠組みを提供した。多施設データに基づく集約結果は、COVID-19の臨床像と医療実態を理解する基盤となる。"
+},
+{
+"jp_title": "電子健康記録を用いた既存の表現型ライブラリを要約し批判的に評価するシステマティックレビュー",
+"authors": "Sima Mohammadi ¹, Cori Campbell ¹², Miriam C J M Sturkenboom ¹, Tiago A Vaz ¹",
+"affiliations": "¹Department of Data Science & Biostatistics, University Medical Center Utrecht (UMCU), Utrecht, the Netherlands.\n²Department of Health Services Research and Policy, The London School of Hygiene and Tropical Medicine, London, UK.",
+"journal_doi": "Pharmacoepidemiol Drug Saf. 2026 May;35(5):e70378. doi:10.1002/pds.70378",
+"en_title": "A Systematic Review to Summarize and Critically Appraise Existing Phenotype Libraries Using Electronic Health Records",
+"pubmed_info": "PubMed PMID: 42036306; PubMed Central PMCID: PMC13110926.",
+"background": "EHRを用いる薬剤疫学および集団健康研究では、研究変数を電子データ上で利用可能な表現型として定義する必要がある。表現型ライブラリは、コードリストやアルゴリズムを標準化・再利用するための基盤であるが、その内容や品質には多様性がある。",
+"methods": "既存の表現型ライブラリを評価するためのシステマティックレビューを実施した。\nScopus、PubMed、Web of Scienceを用い、2025年11月までに公表されたEHR、表現型アルゴリズム、表現型ライブラリに関する研究を検索した。\n文献検索に加え、論文を伴わないWebベースの表現型ライブラリも構造化ハンドサーチで同定した。\nライブラリの規模、語彙、表現型構築方法、検証実践、管理、移植性を抽出した。",
+"results": "336件の論文のうち37件が全文レビュー対象となり、25件は再利用可能なEHRベース表現型ライブラリではないため除外された。\n最終的に12論文から10のユニークなライブラリが同定され、ハンドサーチによりさらに7ライブラリが追加され、計17の表現型ライブラリが対象となった。\n対象ライブラリには、ECHILD、CIPHER、CCW、ClinicalCodes、CCSR、ComPLy、CALIBER、OHDSI ATLAS、PheCode、PheKB、PhEMA、VSACなどが含まれた。\nライブラリは規模、表現型表現、検証実践に大きなばらつきがあり、すべてのライブラリはWebベースのプラットフォームと基本的な管理要件を満たしていた。",
+"conclusion": "EHR研究における表現型ライブラリは、構築方法や検証実践に大きな差がある。表現型の透明性と計算可能な定義の整備は、異なるシステム間での移植性を高め、表現型の有効な再利用を促進する。"
+},
+{
+"jp_title": "欧州におけるICUデータ標準化：INDICATE最小データ辞書の開発",
+"authors": "Boris Delange ¹, Mirna El Ghosh ², Celia Alvarez-Romero ³, Maxim Moinat ⁴, Paul Hilders ⁵, Patrick Rockenschaub ⁶, Jan van den Brand ⁷, Michel E van Genderen ⁷, Christian Jung ⁸, Denis Delamarre ¹, Sylvain Robert ¹, Christel Daniel ²⁹, Marc Cuggia ¹, Carlos Luis Parra-Calderón ³",
+"affiliations": "¹Univ Rennes, CHU Rennes, INSERM, LTSI-UMR 1099, Rennes, France.\n²Sorbonne Université, Inserm, Université Sorbonne Paris Nord, LIMICS, Paris, France.\n³Computational Health Informatics Group. Institute of Biomedicine of Seville, IBIS/ Virgen del Rocío University Hospital/CSIC/University of Seville, Spain.\n⁴Erasmus MC University Medical Center, Department of Medical Informatics, Rotterdam, The Netherlands.\n⁵Amsterdam UMC, Department of Intensive Care Medicine, Amsterdam, The Netherlands.\n⁶Institute of Clinical Epidemiology, Public Health, Health Economics, Medical Statistics, and Informatics, Medical University of Innsbruck, Innsbruck, Austria.\n⁷Erasmus MC University Medical Center, Department of Adult Intensive Care, Rotterdam, The Netherlands.\n⁸Medical Faculty, Department of Cardiology, Pulmonology and Vascular Medicine, Heinrich-Heine-University Dusseldorf, Dusseldorf, German and CARID (Cardiovascular Research Institute Düsseldorf), Dusseldorf, Germany.\n⁹Medical Information Department, Henri Mondor Teaching Hospital, Greater Paris Teaching Hospital (Assistance Publique - Hôpitaux de Paris), Creteil, France.",
+"journal_doi": "Stud Health Technol Inform. 2026 May;336:1207–1211. doi:10.3233/SHTI260390",
+"en_title": "Standardizing ICU Data Across Europe: Development of the INDICATE Minimal Data Dictionary",
+"pubmed_info": "PubMed PMID: 42175063.",
+"background": "ICUでは豊富なデータが生成されるが、施設ごとのデータ構造や用語の違いにより、国境を越えたデータ共有やAI開発への二次利用が制限されている。欧州規模でICUデータを標準化する共通データ辞書が必要とされている。",
+"methods": "INDICATEプロジェクトでは、欧州12か国15データプロバイダーによるフェデレーテッドICUデータ基盤の構築を目指し、最小データ辞書を開発した。\nデータ辞書はOMOP CDMを基盤とし、SNOMED、LOINC、RxNorm、UCUMなどの標準語彙を用いた概念セットとして設計された。\n臨床変数を一度定義し、専門家レビュー、バージョン管理、SQL出力、単位調和、ATLAS互換JSONへの変換を可能にする形で整理した。",
+"results": "INDICATEデータ辞書は、9つの臨床カテゴリにわたる300以上の概念セットを含む共通変数層として構築された。\n概念セットはOHDSI形式に準拠し、SQL、単位変換、ATLAS互換JSONとして利用可能な形で提供された。\nデータ辞書は、6つの臨床ユースケースを支えるフェデレーテッドICUデータ基盤の共通レイヤーとして位置づけられた。",
+"conclusion": "INDICATE最小データ辞書は、欧州のICUデータを標準化し、フェデレーテッド解析、AI開発、ベンチマーキング、災害対応などへの二次利用を支援する基盤である。OMOP CDMと標準語彙に基づく共通概念セットは、ICUデータの相互運用性向上に寄与する。"
+}
+]

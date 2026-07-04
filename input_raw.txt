@@ -1,0 +1,30 @@
+
+論文1：
+Phuong J, Hong S, Palchuk MB, Espinoza J, Meeker D, Dorr DA, et al. Advancing Interoperability of Patient-level Social Determinants of Health Data to Support COVID-19 Research. AMIA Jt Summits Transl Sci Proc. 2022;2022:396–405. PubMed PMID: 35854720; PubMed Central PMCID: PMC9285174.
+
+論文2：
+Pasha A, Qiao S, Zhang J, Cai R, He B, Yang X, et al. The impact of the COVID-19 pandemic on mental health care utilization among people living with HIV: A real-world data study. medRxiv : the preprint server for health sciences. United States; 2024. p. 2024.09.26.24314443. doi:10.1101/2024.09.26.24314443 PubMed PMID: 39398989; PubMed Central PMCID: PMC11469454.
+
+論文3：
+Butler A, Wei W, Yuan C, Kang T, Si Y, Weng C. The Data Gap in the EHR for Clinical Research Eligibility Screening. AMIA Jt Summits Transl Sci Proc. 2018;2017:320–9. PubMed PMID: 29888090; PubMed Central PMCID: PMC5961795.
+
+論文4：
+Blasini R, Buchowicz KM, Schneider H, Samans B, Sohrabi K. Implementation of inclusion and exclusion criteria in clinical studies in OHDSI ATLAS software. Sci Rep. 2023 Dec;13(1):22457. doi:10.1038/s41598-023-49560-w PubMed PMID: 38105303; PubMed Central PMCID: PMC10725886.
+
+論文5：
+Wooller SK, Blake A, McCabe M, McLean C, Price G, Unsworth H, et al. From bench to byte: A UK perspective on data-driven cancer research. Eur J Cancer. 2026 Jun;240:116751. doi:10.1016/j.ejca.2026.116751 PubMed PMID: 42034002.
+
+論文6：
+Sun H, Depraetere K, De Roo J, Mels G, De Vloed B, Twagirumukiza M, et al. Semantic processing of EHR data for clinical research. J Biomed Inform. 2015 Dec;58:247–59. doi:10.1016/j.jbi.2015.10.009 PubMed PMID: 26515501.
+
+論文7：
+ Sanz F. Integrative Data Science in Drug Safety Research: Experiences, Challenges, and Perspectives. Annu Rev Biomed Data Sci. 2025 Aug;8(1):275–85. doi:10.1146/annurev-biodatasci-103123-095506 PubMed PMID: 40169005.
+
+論文8：
+Prieto-Alhambra D, Kostka K, Duarte-Salles T, Prats-Uribe A, Sena A, Pistillo A, et al. Unraveling COVID-19: a large-scale characterization of 4.5 million COVID-19 cases using CHARYBDIS. United States; 2021. doi:10.21203/rs.3.rs-279400/v1
+
+論文9：
+Mohammadi S, Campbell C, Sturkenboom MCJM, Vaz TA. A Systematic Review to Summarize and Critically Appraise Existing Phenotype Libraries Using Electronic Health Records. Pharmacoepidemiol Drug Saf. 2026 May;35(5):e70378. doi:10.1002/pds.70378 PubMed PMID: 42036306; PubMed Central PMCID: PMC13110926.
+
+論文10：
+Delange B, El Ghosh M, Alvarez-Romero C, Moinat M, Hilders P, Rockenschaub P, et al. Standardizing ICU Data Across Europe: Development of the INDICATE Minimal Data Dictionary. Stud Health Technol Inform. 2026 May;336:1207–11. doi:10.3233/SHTI260390 PubMed PMID: 42175063.

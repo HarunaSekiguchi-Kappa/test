@@ -1,0 +1,99 @@
+﻿paper_index,pmid,pmcid,doi,source,authors,affiliations,warnings
+1,35854720,PMC9285174,,pubmed_xml,"Jimmy Phuong ¹², Stephanie Hong ³, Matvey B Palchuk ⁴, Juan Espinoza ⁵, Daniella Meeker ⁶, David A Dorr ⁷, Galina Lozinski ⁸, Charisse Madlock-Brown ⁹, William G Adams ⁸","¹Division of Biomedical and Health Informatics, UW Medicine, Seattle, Washington.
+²University of Washington Medicine Research IT, Seattle, Washington.
+³Section of Biomedical Informatics and Data Science, Johns Hopkins University School of Medicine, Baltimore, Maryland.
+⁴TriNetX, LLC, Cambridge, MA.
+⁵Department of Pediatrics, Children's Hospital Los Angeles, Los Angeles, CA.
+⁶Department of Preventive Medicine, University of Southern California, Los Angeles, California.
+⁷Department of Medical Informatics & Clinical Epidemiology, Oregon Health & Science University, Portland, OR.
+⁸Department of Pediatrics, Boston Medical Center/Boston University School of Medicine.
+⁹Tennessee Clinical and Translational Science Institute, University of Tennessee Health Science Center, Memphis, Tennessee.","PMC JATS XML failed: mismatched tag: line 137, column 6"
+2,39398989,PMC11469454,10.1101/2024.09.26.24314443,pubmed_xml,"Atana Pasha ¹², Shan Qiao ¹², Jiajia Zhang ²³, Ruilie Cai ², Buwei He ², Xueying Yang ¹², Chen Liang ²⁴, Sharon Weissman ²⁵, Xiaoming Li ¹²","¹Department of Health Promotion, Education and Behavior, Arnold School of Public Health, University of South Carolina, Columbia, SC, USA.
+²South Carolina SmartState Center for Healthcare Quality, Arnold School of Public Health, University of South Carolina, Columbia, SC, USA.
+³Department of Epidemiology and Biostatistics, Arnold School of Public Health, University of South Carolina, Columbia, SC, USA.
+⁴Department of Health Services Policy and Management, Arnold School of Public Health, University of South Carolina, Columbia, SC, USA.
+⁵Department of Internal Medicine, School of Medicine, University of South Carolina, Columbia, SC, USA.","PMC JATS XML failed: mismatched tag: line 144, column 6"
+3,29888090,PMC5961795,,pubmed_xml,"Alex Butler ¹, Wei Wei ¹, Chi Yuan ¹, Tian Kang ¹, Yuqi Si ², Chunhua Weng ¹","¹Department of Biomedical Informatics, Columbia University, New York City, New York.
+²The University of Texas Health Science Center at Houston, Houston, Texas.","PMC JATS XML failed: mismatched tag: line 130, column 6"
+4,38105303,PMC10725886,10.1038/s41598-023-49560-w,pubmed_xml,"Romina Blasini ¹, Kornelia Marta Buchowicz ²³, Henning Schneider ²³, Birgit Samans ³, Keywan Sohrabi ²³","¹Institute of Medical Informatics, Justus Liebig University, Giessen, Germany. romina.blasini@informatik.med.uni-giessen.de.
+²Institute of Medical Informatics, Justus Liebig University, Giessen, Germany.
+³Faculty of Health Sciences, University of Applied Sciences, Giessen, Germany.","PMC JATS XML failed: mismatched tag: line 133, column 6"
+5,42034002,,10.1016/j.ejca.2026.116751,pubmed_xml,"Sarah K Wooller ¹, Andrew Blake ², Martin McCabe ³, Colin McLean ⁴, Gareth Price ⁵, Harriet Unsworth ⁶, Mieke Van Hemelrijck ⁷, Frances M G Pearl ⁸","¹Bioinformatics Lab, School of Life Sciences, Faculty of Science, Engineering and Medicine, University of Sussex, Brighton, Falmer BN1 9QG, United Kingdom.
+²Department of Oncology, University of Oxford, Old Road Campus Research Building, Roosevelt Drive, Oxford OX3 7DQ, United Kingdom.
+³The Christie NHS Foundation Trust, Wilmslow Road, Withington, Manchester M20 4BX, United Kingdom.
+⁴The Cancer Centre, School of Genetics and Cancer, The University of Edinburgh, Crewe Road South, Edinburgh EH4 2XU, United Kingdom.
+⁵The Christie NHS Foundation Trust, Wilmslow Road, Withington, Manchester M20 4BX, United Kingdom; Division of Cancer Sciences, University of Manchester, Manchester, United Kingdom.
+⁶Digital Cancer Research Team, CRUK National Biomarker Centre, The Paterson Building, The University of Manchester, Wilmslow Road, Manchester M20 4BX, United Kingdom. Electronic address: harriet.unsworth@cruk.manchester.ac.uk.
+⁷Comprehensive Cancer Centre, Guy's Hospital, 3rd Floor Bermondsey Wing, London SE1 9RT, United Kingdom. Electronic address: mieke.vanhemelrijck@kcl.ac.uk.
+⁸Bioinformatics Lab, School of Life Sciences, Faculty of Science, Engineering and Medicine, University of Sussex, Brighton, Falmer BN1 9QG, United Kingdom. Electronic address: f.pearl@sussex.ac.uk.",
+6,26515501,,10.1016/j.jbi.2015.10.009,pubmed_xml,"Hong Sun ¹, Kristof Depraetere ², Jos De Roo ², Giovanni Mels ², Boris De Vloed ², Marc Twagirumukiza ², Dirk Colaert ²","¹Advanced Clinical Applications Research Group, Agfa HealthCare, Moutstraat 100, 9000 Gent, Belgium. Electronic address: hong.sun@agfa.com.
+²Advanced Clinical Applications Research Group, Agfa HealthCare, Moutstraat 100, 9000 Gent, Belgium.",
+7,40169005,,10.1146/annurev-biodatasci-103123-095506,pubmed_xml,Ferran Sanz ¹²,"¹Department of Medicine and Life Sciences (MELIS), Universitat Pompeu Fabra, Barcelona, Spain; email: ferran.sanz@upf.edu.
+²Research Program on Biomedical Informatics (GRIB), Hospital del Mar Research Institute (IMIM), Barcelona, Spain.",
+8,33688639,PMC7941629,10.21203/rs.3.rs-279400/v1,pubmed_xml,"Daniel Prieto-Alhambra ¹, Kristin Kostka ², Talita Duarte-Salles ³, Albert Prats-Uribe ⁴, Anthony Sena ⁵, Andrea Pistillo ³, Sara Khalid ⁶, Lana Lai ⁷, Asieh Golozar ⁸, Thamir M Alshammari ⁹, Dalia Dawoud ¹⁰, Fredrik Nyberg ¹¹, Adam Wilcox ¹², Alan Andryc ¹³, Andrew Williams ¹⁴, Anna Ostropolets ¹⁵, Carlos Areia ¹⁶, Chi Young Jung ¹⁷, Christopher Harle ¹⁸, Christian Reich ², Clair Blacketer ⁵, Daniel Morales ¹⁹, David A Dorr ²⁰, Edward Burn ³, Elena Roel, Eng Hooi Tan ⁶, Evan Minty ²¹, Frank DeFalco ¹³, Gabriel de Maeztu ²², Gigi Lipori ²³, Heba Alghoul ²⁴, Hong Zhu ²⁵, Jason Thomas ²⁶, Jiang Bian ²⁷, Jimyung Park ²⁸, Jordi Martínez Roldán ²⁹, Jose Posada ³⁰, Juan M Banda ³¹, Juan P Horcajada ³², Julianna Kohler ³³, Karishma Shah ³⁴, Karthik Natarajan ³⁵, Kristine Lynch ³⁶, Li Liu ³⁷, Lisa Schilling ³⁸, Martina Recalde ³, Matthew Spotnitz ¹⁵, Mengchun Gong ³⁹, Michael Matheny ⁴⁰, Neus Valveny ⁴¹, Nicole Weiskopf ²⁰, Nigam Shah ⁴², Osaid Alser ⁴³, Paula Casajust ⁴⁴, Rae Woong Park ²⁸, Robert Schuff ⁴⁵, Sarah Seager ², Scott DuVall ⁴⁶, Seng Chan You ⁴⁷, Seokyoung Song ⁴⁸, Sergio Fernández-Bertolín ³, Stephen Fortin ⁴⁹, Tanja Magoc ²³, Thomas Falconer ¹⁵, Vignesh Subbian ⁵⁰, Vojtech Huser ⁵¹, Waheed-Ul-Rahman Ahmed ⁵², William Carter ⁵³, Yin Guan ³⁹, Yankuic Galvan ²³, Xing He ²³, Peter Rijnbeek ⁵⁴, George Hripcsak ³⁵, Patrick Ryan ⁵⁵, Marc Suchard ⁵⁶","¹Centre for Statistics in Medicine (CSM), Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences (NDROMS), University of Oxford, UK.
+²Real World Solutions, IQVIA, Cambridge, MA, USA.
+³Fundació Institut Universitari per a la recerca a l'Atenció Primària de Salut Jordi Gol i Gurina (IDIAPJGol), Barcelona, Spain.
+⁴Centre for Statistics in Medicine, University of Oxford.
+⁵Janssen R&D, Titusville NJ, USA, 2) Department of Medical Informatics, Erasmus University Medical Center, Rotterdam, The Netherlands.
+⁶Centre for Statistics in Medicine, NDORMS, University of Oxford, UK.
+⁷Division of Cancer Sciences, School of Medical Sciences, University of Manchester, UK.
+⁸Regeneron Pharmaceuticals, NY USA, Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, MD USA.
+⁹Medication Safety Research Chair, King Saud University, Riyadh, Saudi Arabia.
+¹⁰National Institute for Health and Care Excellence, London, UK.
+¹¹School of Public Health and Community Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden.
+¹²Department of Biomedical Informatics and Medical Education, University of Washington, Seattle, WA, USA, 2) UW Medicine, Seattle, WA, USA.
+¹³Janssen R&D, Titusville NJ, USA.
+¹⁴Tufts Institute for Clinical Research and Health Policy Studies, US.
+¹⁵Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA.
+¹⁶Nuffield Department of Clinical Neurosciences, University of Oxford, UK.
+¹⁷Division of Respiratory and Critical Care Medicine, Department of Internal Medicine, Daegu Catholic University Medical Center, Daegu, Korea.
+¹⁸University of Florida Health, Gainesville, FL, USA.
+¹⁹Division of Population Health and Genomics, University of Dundee, UK.
+²⁰Department of Medical Informatics & Clinical Epidemiology, Oregon Health & Science University, Portland, OR, USA.
+²¹O'Brien Institute for Public Health, Faculty of Medicine, University of Calgary, Canada.
+²²IOMED, Barcelona, Spain.
+²³University of Florida Health.
+²⁴Faculty of Medicine, Islamic University of Gaza, Palestine.
+²⁵Nanfang Hospital, Southern Medical University, Guangzhou, China.
+²⁶Department of Biomedical Informatics and Medical Education, University of Washington, Seattle, WA, USA.
+²⁷University of Florida.
+²⁸Department of Biomedical Sciences, Ajou University Graduate School of Medicine, Suwon, Korea.
+²⁹Director of Innovation and Digital Transformation, Hospital del Mar, Barcelona, Spain.
+³⁰Stanford University School of Medicine, Stanford, California, USA.
+³¹Georgia State University, Department of Computer Science, Atlanta, GA, USA.
+³²Department of Infectious Diseases, Hospital del Mar, Institut Hospital del Mar d'Investigació Mèdica (IMIM), Universitat Autònoma de Barcelona. Universitat Pompeu Fabra, Barcelo.
+³³United States Agency for International Development, Washington, DC, USA.
+³⁴Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK.
+³⁵Department of Biomedical Informatics, Columbia University Irving Medical Center, New York, NY 10032, USA, 2) New York-Presbyterian Hospital, 622 W 168 St, PH20 New York, NY 10032 USA.
+³⁶VINCI, VA Salt Lake City Health Care System, Salt Lake City, VA, & Division of Epidemiology, University of Utah, Salt Lake City, UT.
+³⁷Biomedical Big Data Center, Nanfang Hospital, Southern Medical University, Guangzhou, China.
+³⁸Data Science to Patient Value Program, University of Colorado Anschutz Medical Campus.
+³⁹DHC Technologies Co. Ltd, Beijing, China.
+⁴⁰VINCI, Tennessee Valley Healthcare System VA, Nashville, TN & Department of Biomedical Informatics, Vanderbilt University Medical Center, Nashville, TN.
+⁴¹Real-World Evidence, TFS, Barcelona, Spain.
+⁴²Stanford University.
+⁴³Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.
+⁴⁴Trial Form Support.
+⁴⁵Knight Cancer Institute, Oregon Health & Science University.
+⁴⁶VA Informatics and Computing Infrastructure, VA Salt Lake City Health Care System, Salt Lake City, UT, USA.
+⁴⁷Department of Biomedical Informatics, Ajou University School of Medicine, Suwon, South Korea.
+⁴⁸Department of Anesthesiology and Pain Medicine, Catholic University of Daegu, School of Medicine, Daegu, Korea.
+⁴⁹Observational Health Data Analytics, Janssen Research and Development, Raritan, NJ, USA.
+⁵⁰College of Engineering, The University of Arizona, Tucson, Arizona, USA.
+⁵¹National Library of Medicine, National Institutes of Health, Bethesda, MD, USA.
+⁵²Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, University of Oxford, Oxford, UK, 2) College of Medicine and Health, University of Exeter, St Luke's Campus, E.
+⁵³Data Science to Patient Value Program, School of Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO, USA.
+⁵⁴Department of Medical Informatics, Erasmus University Medical Center, Rotterdam, The Netherlands.
+⁵⁵Janssen R&D.
+⁵⁶Department of Biostatistics, UCLA Fielding School of Public Health, University of California, Los Angeles.","PMC JATS XML failed: mismatched tag: line 268, column 6"
+9,42036306,PMC13110926,10.1002/pds.70378,pubmed_xml,"Sima Mohammadi ¹, Cori Campbell ¹², Miriam C J M Sturkenboom ¹, Tiago A Vaz ¹","¹Department of Data Science & Biostatistics, University Medical Center Utrecht (UMCU), Utrecht, the Netherlands.
+²Department of Health Services Research and Policy, The London School of Hygiene and Tropical Medicine, London, UK.","PMC JATS XML failed: mismatched tag: line 129, column 6"
+10,42175063,,10.3233/SHTI260390,pubmed_xml,"Boris Delange ¹, Mirna El Ghosh ², Celia Alvarez-Romero ³, Maxim Moinat ⁴, Paul Hilders ⁵, Patrick Rockenschaub ⁶, Jan van den Brand ⁷, Michel E van Genderen ⁷, Christian Jung ⁸, Denis Delamarre ¹, Sylvain Robert ¹, Christel Daniel ²⁹, Marc Cuggia ¹, Carlos Luis Parra-Calderón ³","¹Univ Rennes, CHU Rennes, INSERM, LTSI-UMR 1099, Rennes, France.
+²Sorbonne Université, Inserm, Université Sorbonne Paris Nord, LIMICS, Paris, France.
+³Computational Health Informatics Group. Institute of Biomedicine of Seville, IBIS/ Virgen del Rocío University Hospital/CSIC/University of Seville, Spain.
+⁴Erasmus MC University Medical Center, Department of Medical Informatics, Rotterdam, The Netherlands.
+⁵Amsterdam UMC, Department of Intensive Care Medicine, Amsterdam, The Netherlands.
+⁶Institute of Clinical Epidemiology, Public Health, Health Economics, Medical Statistics, and Informatics, Medical University of Innsbruck, Innsbruck, Austria.
+⁷Erasmus MC University Medical Center, Department of Adult Intensive Care, Rotterdam, The Netherlands.
+⁸Medical Faculty, Department of Cardiology, Pulmonology and Vascular Medicine, Heinrich-Heine-University Dusseldorf, Dusseldorf, German and CARID (Cardiovascular Research Institute Düsseldorf), Dusseldorf, Germany.
+⁹Medical Information Department, Henri Mondor Teaching Hospital, Greater Paris Teaching Hospital (Assistance Publique - Hôpitaux de Paris), Creteil, France.",
