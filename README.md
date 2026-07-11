@@ -178,10 +178,14 @@ VS Codeで `papers.json` を開き、ChatGPTから返ってきたJSONを貼り�
 - 保存は `Ctrl + S`
 
 ---
-
 ### Step 6. PowerPointを生成する
 
 PowerPointで `template.pptx` や `output.pptx` を開いている場合は閉じます。
+
+このスクリプトはPowerPoint本体をPythonから操作するため、初回だけ `pywin32` のインストールが必要です。
+
+```powershell
+python -m pip install pywin32
 
 その後、VS Codeのターミナルで実行します。
 
