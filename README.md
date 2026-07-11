@@ -40,7 +40,7 @@ paper_slide_project/
   input_raw.txt
   prompt_create_papers_json.txt
 
-  raw_to_input_papers_csv_v3.py
+  raw_to_input_papers_csv.py
   pmid_pmcid_to_authors_affiliations.py
   make_paper_slides_powerpoint.py
 
@@ -88,7 +88,7 @@ Pasha A, Qiao S, Zhang J, Cai R, He B, Yang X, et al. The impact of the COVID-19
 VS Codeのターミナルで実行します。
 
 ```powershell
-python raw_to_input_papers_csv_v3.py input_raw.txt input_papers.csv
+python raw_to_input_papers_csv.py input_raw.txt input_papers.csv
 ```
 
 成功すると `input_papers.csv` ができます。
